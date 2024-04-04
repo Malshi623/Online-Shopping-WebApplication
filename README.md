@@ -1,1 +1,1 @@
-# New folderddd
+# Nuxt3 Web Application
